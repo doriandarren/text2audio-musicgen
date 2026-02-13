@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-transformers>=4.39.0
-accelerate
-scipy
-safetensors
